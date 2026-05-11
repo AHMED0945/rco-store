@@ -14,7 +14,7 @@ Content Creators
 | :--- | :--- |
 | 🎨 **Curated Stickers** | High-resolution graphics tailored for video editing and branding. |
 | 🚀 **Creator-Centric** | Built to solve the visual needs of modern digital influencers. |
-| 🛠️ **Easy Integration** | Ready-to-use assets for various design software (PNG, SVG). |
+| 🛠️ **good Assests** | Ready-to-use assets for your work |
 
 ---
 ### Project Showcase:
