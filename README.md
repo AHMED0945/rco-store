@@ -1,10 +1,6 @@
 # RCO Store - Creative Assets for 
 Content Creators
-<p align="center">
-  <img src="https://img.shields.io/badge/status-core--development-0078D4.svg?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/platform-Secure--Web-0078D4.svg?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/assets-stickers--&--visuals-0078D4.svg?style=flat-square" alt="Assets">
-</p>
+
 
 [![Build Status](https://img.shields.io/badge/status-developing-orange.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Web-blue.svg)]()
