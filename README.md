@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🎨 RCO Store</h1>
+  <h1 align="center"> RCO Store</h1>
   <p align="center">
     <i>The Premier Hub for Free, High-Quality Creative Assets.</i>
     <br />
@@ -10,20 +10,20 @@
   </p>
 </p>
 ---
-### 🌐 Mission Statement
+###  Mission Statement
 **RCO Store** is engineered to support the global creative community. We provide professional-grade stickers and design resources at no cost, sustained by a transparent and non-intrusive ad-supported model.
 > "Empowering designers, one pixel at a time."
 ---
-### 🛠️ Technical Ecosystem
+###  Technical Ecosystem
 
 | Component | Architecture | Focus |
 | :--- | :--- | :--- |
-| 🖥️ **Frontend** | Responsive Design | User-centric asset discovery & browsing. |
-| 🛡️ **Security** | SSL/HTTPS | Ensuring secure data transit and user privacy. |
-| 💰 **Monetization** | Ad-Integrated | Supporting free access through lightweight ads. |
+|  **Frontend** | Responsive Design | User-centric asset discovery & browsing. |
+|  **Security** | SSL/HTTPS | Ensuring secure data transit and user privacy. |
+|  **Monetization** | Ad-Integrated | Supporting free access through lightweight ads. |
 
 ---
-### 📑 Development Roadmap
+###  Development Roadmap
 - [x] **Core Foundation:** Secure hosting and domain integration.
 - [x] **Visual Identity:** Initial UI/UX and branding setup.
 - [ ] **Library Expansion:** Curating more high-res assets.
